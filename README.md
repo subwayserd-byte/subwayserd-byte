@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:100707,50:3b0a0a,100:100707&height=260&section=header&text=VoidX&fontSize=82&fontColor=ff3b30&animation=fadeIn&fontAlignY=40&stroke=ff3b30&strokeWidth=1&desc=Web%20Programmer%20%E2%80%A2%20Building%20for%20the%20Web&descAlignY=65&descSize=18" alt="VoidX — Web Programmer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:100707,50:3b0a0a,100:100707&height=260&section=header&text=VoidX&fontSize=82&fontColor=ff3b30&animation=fadeIn&fontAlignY=40&stroke=ff3b30&strokeWidth=1&desc=Beginner%20Web%20Programmer%20%E2%80%A2%20Building%20for%20the%20Web&descAlignY=65&descSize=18" alt="VoidX — Web Programmer" />
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 </td>
 <td align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=FF3B30&vCenter=true&width=520&height=90&lines=%3E+hello%2C+I%27m+VoidX;Web+Programmer;Building+practical+web+projects;Learning+by+creating+and+improving)](https://github.com/subwayserd-byte)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=FF3B30&vCenter=true&width=520&height=90&lines=%3E+hello%2C+I%27m+VoidX;Beginner+Web+Programmer;Building+practical+web+projects;Learning+by+creating+and+improving)](https://github.com/subwayserd-byte)
 
 ![Followers](https://img.shields.io/github/followers/subwayserd-byte?style=for-the-badge&logo=github&logoColor=ff3b30&labelColor=160909&color=ba1b1b)
 
@@ -25,7 +25,7 @@
 
 ```text
 name       : VoidX
-role       : Student & Web Programmer
+role       : Student & Beginner Web Programmer
 focus      : Building useful, easy-to-use websites
 currently  : Learning through real projects
 approach   : Start simple, test, learn, improve
