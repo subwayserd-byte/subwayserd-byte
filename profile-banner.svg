@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">SUBWAYSERD — Student Developer</title>
+  <desc id="desc">Dark terminal-inspired banner with neon green accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d0b"/>
+      <stop offset="1" stop-color="#111a15"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e65a"/>
+      <stop offset="1" stop-color="#8affad"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9affb1" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#00e65a" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#00e65a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <ellipse cx="895" cy="157" rx="330" ry="250" fill="url(#halo)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#00e65a" stroke-opacity=".3" stroke-width="2"/>
+  <rect x="54" y="46" width="8" height="248" rx="4" fill="url(#glow)"/>
+  <text x="91" y="91" fill="#73f99a" font-family="Consolas, 'Courier New', monospace" font-size="17" letter-spacing="3">GITHUB PROFILE // STUDENT DEVELOPER</text>
+  <text x="86" y="191" fill="#f3fff6" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="-3">SUBWAYSERD</text>
+  <path d="M92 218H530" stroke="#00e65a" stroke-width="3"/>
+  <text x="92" y="261" fill="#b6ffc8" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">Web Developer</text>
+  <circle cx="313" cy="252" r="5" fill="#00e65a"/>
+  <text x="337" y="261" fill="#b6ffc8" font-family="Arial, Helvetica, sans-serif" font-size="23">Learning by building useful projects.</text>
+  <g fill="#b6ffc8" font-family="Consolas, 'Courier New', monospace" font-size="15" opacity=".76">
+    <text x="944" y="106">&lt;build status="learning" /&gt;</text>
+    <text x="1004" y="139">web.projects++</text>
+    <text x="968" y="172">ship(); improve();</text>
+  </g>
+  <circle cx="1127" cy="259" r="6" fill="#00e65a"/>
+  <text x="1108" y="293" text-anchor="end" fill="#73f99a" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">KEEP BUILDING</text>
+</svg>
