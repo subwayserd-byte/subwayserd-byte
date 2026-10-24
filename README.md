@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="profile-banner.svg" alt="SUBWAYSERD — Student Developer and Web Developer" width="100%">
+<h1>SUBWAYSERD</h1>
+
+<strong>STUDENT DEVELOPER&nbsp; · &nbsp;WEB DEVELOPER</strong>
+
+<br>
+
+<em>Building useful things, learning by shipping, improving one project at a time.</em>
 
 ![Profile views](https://komarev.com/ghpvc/?username=subwayserd-byte&style=flat-square&color=00e65a&label=PROFILE+VIEWS)
 
