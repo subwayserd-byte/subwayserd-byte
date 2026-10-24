@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:100707,50:3b0a0a,100:100707&height=260&section=header&text=SUBWAYSERD&fontSize=82&fontColor=ff3b30&animation=fadeIn&fontAlignY=40&stroke=ff3b30&strokeWidth=1&desc=Web%20Programmer%20%E2%80%A2%20Building%20for%20the%20Web&descAlignY=65&descSize=18" alt="SUBWAYSERD — Beginner Web Programmer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:100707,50:3b0a0a,100:100707&height=260&section=header&text=SUBWAYSERD&fontSize=82&fontColor=ff3b30&animation=fadeIn&fontAlignY=40&stroke=ff3b30&strokeWidth=1&desc=Web%20Programmer%20%E2%80%A2%20Building%20for%20the%20Web&descAlignY=65&descSize=18" alt="SUBWAYSERD — Web Programmer" />
 
 <div align="center">
 
@@ -28,28 +28,25 @@ name       : SubwaySerd
 role       : Student & Web Programmer
 focus      : Building useful, easy-to-use websites
 currently  : Learning through real projects
-working on : A hostel complaint and room-report portal
 approach   : Start simple, test, learn, improve
 ```
 
-## `~/featured-project`
-
-### [Asrama 2026 — Portal Aduan Asrama](https://github.com/subwayserd-byte/asrama_2026)
-
-A student-built web project for hostel reports, complaint status checking, and weekly room self-reports.
-
-**Tools used:** HTML · CSS · JavaScript · Google Apps Script · Google Sheets · Vercel
-
-## `~/tools`
+## `~/skills`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-160909?style=for-the-badge&logo=html5&logoColor=ff3b30" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-160909?style=for-the-badge&logo=css3&logoColor=ff3b30" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-160909?style=for-the-badge&logo=javascript&logoColor=ff3b30" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-160909?style=for-the-badge&logo=googleappsscript&logoColor=ff3b30" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/GitHub-160909?style=for-the-badge&logo=github&logoColor=ff3b30" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-160909?style=for-the-badge&logo=vercel&logoColor=ff3b30" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="64" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="64" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="64" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="64" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="64" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="64" alt="Vercel" />
 </p>
+
+<div align="center">
+
+![Coding animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=700&color=FF3B30&center=true&vCenter=true&width=560&height=45&lines=%3E+writing+code...;const+idea+%3D+buildSomethingUseful%28%29%3B;save();+test();+improve();;%3E+keep+building_%E2%96%8C)
+
+</div>
 
 ## `~/github-stats`
 
