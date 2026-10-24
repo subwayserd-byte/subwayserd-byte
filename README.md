@@ -12,6 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=FF3B30&vCenter=true&width=520&height=90&lines=%3E+hello%2C+I%27m+VoidX;Beginner+Web+Programmer;Building+practical+web+projects;Learning+by+creating+and+improving)](https://github.com/subwayserd-byte)
 
 ![Followers](https://img.shields.io/github/followers/subwayserd-byte?style=for-the-badge&logo=github&logoColor=ff3b30&labelColor=160909&color=ba1b1b)
+<img src="https://raw.githubusercontent.com/subwayserd-byte/subwayserd-byte/main/assets/walking-stickman.gif" height="40" alt="Walking stickman animation" />
 
 </td>
 </tr>
@@ -44,7 +45,7 @@ approach   : Start simple, test, learn, improve
 
 <div align="center">
 
-![Coding animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=700&color=FF3B30&center=true&vCenter=true&width=560&height=45&lines=%3E+writing+code...;const+idea+%3D+buildSomethingUseful%28%29%3B;save();+test();+improve();;%3E+keep+building_%E2%96%8C)
+![Walking stickman animation](https://raw.githubusercontent.com/subwayserd-byte/subwayserd-byte/main/assets/walking-stickman.gif)
 
 </div>
 
