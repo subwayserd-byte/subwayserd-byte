@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="center" width="220">
-  <img src="https://wsrv.nl/?url=https://github.com/subwayserd-byte.png&w=200&h=200&fit=cover&mask=circle" width="180" alt="subwayserd-byte profile picture" />
+  <img src="https://raw.githubusercontent.com/subwayserd-byte/subwayserd-byte/main/assets/profile-photo.jpg" width="200" alt="VoidX profile photo" />
 </td>
 <td align="left">
 
